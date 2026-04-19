@@ -4,16 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-👉 (Add your deployed link here later)
-
----
-
-## 📸 Preview
-
-![App Screenshot](https://via.placeholder.com/1000x500?text=LumiNest+Preview)
-
----
 
 ## ✨ Features
 
